@@ -37,6 +37,10 @@ git add 文件1 文件2 目录/    # [3] 暂存（用目录名代替 .）
 git commit -m "说明"        # [4] 提交
 ```
 
+**Q: 怎么快速提交项目**
+A:
+在项目目录下的终端输入  git add .; git commit -m "更新"; git push
+
 ### AI 模型 / Agent 配置
 
 **Q: 使用 Ollama 下载的本地部署模型，调用时 url 输入什么**
