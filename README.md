@@ -1,6 +1,6 @@
 # -vibe-coding-
   在尝试使用claude,codex等ai制作一个用于聊天和简单办公的agent，记录一些心得和问题。由于是随便写的，因此可能观感不太好。之后可能会整理一下。目前项目的链接是
-[GitHub 仓库](https://github.com/11408-prog/azur_agent)。
+[azur_agent](https://github.com/11408-prog/azur_agent)。
 
 ## 背景
   制作该agent的动机是由于本人十分喜欢碧蓝航线中一个叫企业的角色，加上对于vibecoding感兴趣，于是决定制作该软件。使用的是Qt6,借助了ElaWidgetTools的ui框架。目前还在开发，只能胜任简单的角色对话和一些简单代码及同人文生成生成工作。
