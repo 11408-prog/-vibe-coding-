@@ -1,5 +1,5 @@
 # -vibe-coding-
-  在尝试使用claude,codex等ai制作一个用于聊天和简单办公的agent，记录一些心得和问题。由于是随便写的，因此可能观感不太好。之后可能会整理一下。目前项目的链接是
+  在尝试使用claude,codex等ai制作一个用于聊天的agent，记录一些心得和问题。由于是随便写的，因此可能观感不太好。之后可能会整理一下。目前项目的链接是
 [azur_agent](https://github.com/11408-prog/azur_agent)。
 
 ## 背景
