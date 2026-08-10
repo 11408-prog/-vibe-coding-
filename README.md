@@ -44,9 +44,8 @@ A: 直接把整个栏隐藏即可。
 A: 当时为了在顶上加按钮导致加了一条栏放按钮，不过现在已经解决了。
 
 **Q: 有没有可以美化前端的方法**<br>
-A: 借助  ```bash
-https://killaislop.com/#principles
-```
+A: 借助  https://killaislop.com/#principles
+
 
 ### 开发
 
